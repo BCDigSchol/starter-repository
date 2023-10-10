@@ -10,7 +10,7 @@ This project is a collaboration of the [Boston College Digital Scholarship Group
 
 ## Credits
 
-* John Q. Fakington, Principal Investigator, [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/YOUR_ORCID_HERE(OPTIONAL))
+* John Q. Fakington, Principal Investigator [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/YOUR_ORCID_HERE(OPTIONAL))
 
 ---
 
