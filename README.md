@@ -21,7 +21,7 @@ This project is a collaboration of the [Boston College Digital Scholarship Group
 
 ## About
 
-Put a longer description (optional) of your project/repository here.
+Put a longer description (optional) of your project/repository here. NOTE: You only need to edit this README.md file and the CITATION.cff starter file.
 
 ---
 
